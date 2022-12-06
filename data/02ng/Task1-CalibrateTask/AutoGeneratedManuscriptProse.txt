@@ -1,0 +1,15 @@
+The data analysis was performed using MetaMorpheus version 0.0.0, available at https://github.com/smith-chem-wisc/MetaMorpheus.
+The following calibration settings were used: protease = trypsin; maximum missed cleavages = 2; minimum peptide length = 8; maximum peptide length = 30; initiator methionine behavior = Variable; fixed modifications = Carbamidomethyl on C, Carbamidomethyl on U; variable modifications = Oxidation on M; max mods per peptide = 2; max modification isoforms = 1024; precursor mass tolerance = ±15.0000 PPM; product mass tolerance = ±25.0000 PPM. The combined search database contained 20375 non-decoy protein entries including 0 contaminant sequences. The following calibration settings were used: protease = trypsin; maximum missed cleavages = 2; minimum peptide length = 8; maximum peptide length = 30; initiator methionine behavior = Variable; fixed modifications = Carbamidomethyl on C, Carbamidomethyl on U; variable modifications = Oxidation on M; max mods per peptide = 2; max modification isoforms = 1024; precursor mass tolerance = ±15.0000 PPM; product mass tolerance = ±25.0000 PPM. The combined search database contained 20375 non-decoy protein entries including 0 contaminant sequences. Data files were processed on a computer running Microsoft Windows 10.0.22000 with a 64-bit AMD Ryzen Threadripper 2970WX 24-Core Processor processor with 48 threads and 64GB installed RAM. 
+The total time to perform the Calibrate task on 6 spectra file(s) was 8.67 minutes.
+
+Published works using MetaMorpheus software are encouraged to cite: Solntsev, S. K.; Shortreed, M. R.; Frey, B. L.; Smith, L. M. Enhanced Global Post-translational Modification Discovery with MetaMorpheus. Journal of Proteome Research. 2018, 17 (5), 1844-1851.
+
+Spectra files: 
+	D:\Users\PCL_user\Mass_Spec\data\raw_data\Hela_single-cell\.02ng\mzmls\Ex_Auto_J3_30umTB_02ngQC_60m_1.mzML
+	D:\Users\PCL_user\Mass_Spec\data\raw_data\Hela_single-cell\.02ng\mzmls\Ex_Auto_J3_30umTB_02ngQC_60m_2.mzML
+	D:\Users\PCL_user\Mass_Spec\data\raw_data\Hela_single-cell\.02ng\mzmls\Ex_Auto_K13_30umTA_02ngQC_60m_1.mzML
+	D:\Users\PCL_user\Mass_Spec\data\raw_data\Hela_single-cell\.02ng\mzmls\Ex_Auto_K13_30umTA_02ngQC_60m_2.mzML
+	D:\Users\PCL_user\Mass_Spec\data\raw_data\Hela_single-cell\.02ng\mzmls\Ex_Auto_W17_30umTA_02ngQC_60m_3.mzML
+	D:\Users\PCL_user\Mass_Spec\data\raw_data\Hela_single-cell\.02ng\mzmls\Ex_Auto_W17_30umTA_02ngQC_60m_4.mzML
+Databases:
+	D:\Users\PCL_user\Mass_Spec\data\uniprot_fasta_file\uniprot-filtered-organism__Homo+sapiens+(Human)+[9606]_+AND+review--.fasta Downloaded on: 01/18/2022 09:48:05

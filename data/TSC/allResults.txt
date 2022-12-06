@@ -1,0 +1,603 @@
+MetaMorpheus: version 0.0.0
+Total time: 00:14:46.2586591
+
+
+
+
+Time to run task: 00:09:56.7736635
+
+
+--------------------------------------------------
+
+
+New files:
+New spectra: 
+
+D:\Users\PCL_user\Jupyter_Notebooks\single_cell_review\data\Task1-CalibrateTask\D19_15um30cm_SC1-calib.mzML
+	D:\Users\PCL_user\Jupyter_Notebooks\single_cell_review\data\Task1-CalibrateTask\D19_15um30cm_SC2-calib.mzML
+	D:\Users\PCL_user\Jupyter_Notebooks\single_cell_review\data\Task1-CalibrateTask\D19_15um30cm_SC3-calib.mzML
+	D:\Users\PCL_user\Jupyter_Notebooks\single_cell_review\data\Task1-CalibrateTask\D19_15um30cm_SC4-calib.mzML
+	D:\Users\PCL_user\Jupyter_Notebooks\single_cell_review\data\Task1-CalibrateTask\D19_15um30cm_SC5-calib.mzML
+
+
+--------------------------------------------------
+
+
+
+
+
+
+--------------------------------------------------
+
+
+Engine Results:
+
+Engine type: ClassicSearchEngine
+Time to run engine: 00:00:22.5438531
+
+Engine type: FdrAnalysisEngine
+Time to run engine: 00:00:09.7794802
+PSMs within 1% FDR: 2742
+Delta Score Used for FDR Analysis: False
+
+************************************************************
+*       Metrics for Determination of PEP Using Binary Classification      
+*-----------------------------------------------------------
+*       Accuracy:  0.9948927539801521
+*       Area Under Curve:  0.9996135508304083
+*       Area under Precision recall Curve:  0.9995125571943374
+*       F1Score:  0.9953836423968961
+*       LogLoss:  0.09265552899276355
+*       LogLossReduction:  0.9064337754775826
+*       PositivePrecision:  0.9955733939515444
+*       PositiveRecall:  0.995205707512578
+*       NegativePrecision:  0.9941611259694767
+*       NegativeRecall:  0.9944149021544846
+*       Count of Ambiguous Peptides Removed:  7
+************************************************************
+
+
+
+Engine type: DataPointAcquisitionEngine
+Time to run engine: 00:00:00.1307324
+MS1 calibration datapoint count: 10945
+MS1 ppm error median: 8.853
+MS1 ppm error interquartile range: 2.521
+MS2 calibration datapoint count: 17286
+MS2 ppm error median: 5.677
+MS2 ppm error interquartile range: 1.277
+
+
+Engine type: CalibrationEngine
+Time to run engine: 00:00:00.3624880
+
+Engine type: ClassicSearchEngine
+Time to run engine: 00:00:20.7081593
+
+Engine type: FdrAnalysisEngine
+Time to run engine: 00:00:09.3227608
+PSMs within 1% FDR: 2538
+Delta Score Used for FDR Analysis: False
+
+************************************************************
+*       Metrics for Determination of PEP Using Binary Classification      
+*-----------------------------------------------------------
+*       Accuracy:  0.9938893523129184
+*       Area Under Curve:  0.9994849279145963
+*       Area under Precision recall Curve:  0.9994742694075085
+*       F1Score:  0.9943355236891394
+*       LogLoss:  Infinity
+*       LogLossReduction:  -Infinity
+*       PositivePrecision:  0.9948984848211964
+*       PositiveRecall:  0.9937795781239183
+*       NegativePrecision:  0.9927238398547351
+*       NegativeRecall:  0.9940118445474979
+*       Count of Ambiguous Peptides Removed:  2
+************************************************************
+
+
+
+Engine type: DataPointAcquisitionEngine
+Time to run engine: 00:00:00.0801254
+MS1 calibration datapoint count: 8761
+MS1 ppm error median: 0.615
+MS1 ppm error interquartile range: 2.557
+MS2 calibration datapoint count: 13280
+MS2 ppm error median: 0.03
+MS2 ppm error interquartile range: 1.251
+
+
+Engine type: CalibrationEngine
+Time to run engine: 00:00:00.3531123
+
+Engine type: ClassicSearchEngine
+Time to run engine: 00:00:20.7741589
+
+Engine type: FdrAnalysisEngine
+Time to run engine: 00:00:09.4768195
+PSMs within 1% FDR: 2961
+Delta Score Used for FDR Analysis: False
+
+************************************************************
+*       Metrics for Determination of PEP Using Binary Classification      
+*-----------------------------------------------------------
+*       Accuracy:  0.9965902588405543
+*       Area Under Curve:  0.9994132308693789
+*       Area under Precision recall Curve:  0.9992812773774011
+*       F1Score:  0.9971349278252459
+*       LogLoss:  0.006795016639215191
+*       LogLossReduction:  0.9930684409672283
+*       PositivePrecision:  0.996650086574833
+*       PositiveRecall:  0.9976222638573357
+*       NegativePrecision:  0.9964552247355825
+*       NegativeRecall:  0.9951076254658549
+*       Count of Ambiguous Peptides Removed:  3
+************************************************************
+
+
+
+Engine type: DataPointAcquisitionEngine
+Time to run engine: 00:00:00.0818026
+MS1 calibration datapoint count: 10965
+MS1 ppm error median: 8.409
+MS1 ppm error interquartile range: 2.16
+MS2 calibration datapoint count: 17460
+MS2 ppm error median: 5.689
+MS2 ppm error interquartile range: 1.268
+
+
+Engine type: CalibrationEngine
+Time to run engine: 00:00:00.4195433
+
+Engine type: ClassicSearchEngine
+Time to run engine: 00:00:20.2471565
+
+Engine type: FdrAnalysisEngine
+Time to run engine: 00:00:10.0047922
+PSMs within 1% FDR: 2848
+Delta Score Used for FDR Analysis: False
+
+************************************************************
+*       Metrics for Determination of PEP Using Binary Classification      
+*-----------------------------------------------------------
+*       Accuracy:  0.9946275974073062
+*       Area Under Curve:  0.9995276889217187
+*       Area under Precision recall Curve:  0.9996883890935716
+*       F1Score:  0.9952474331100895
+*       LogLoss:  Infinity
+*       LogLossReduction:  -Infinity
+*       PositivePrecision:  0.9971807582048258
+*       PositiveRecall:  0.9933388941379795
+*       NegativePrecision:  0.991257716410211
+*       NegativeRecall:  0.9964161247839677
+*       Count of Ambiguous Peptides Removed:  2
+************************************************************
+
+
+
+Engine type: DataPointAcquisitionEngine
+Time to run engine: 00:00:00.1139246
+MS1 calibration datapoint count: 14074
+MS1 ppm error median: 0.192
+MS1 ppm error interquartile range: 2.107
+MS2 calibration datapoint count: 20741
+MS2 ppm error median: 0.032
+MS2 ppm error interquartile range: 1.265
+
+
+Engine type: CalibrationEngine
+Time to run engine: 00:00:00.3126835
+
+Engine type: ClassicSearchEngine
+Time to run engine: 00:00:21.4379717
+
+Engine type: FdrAnalysisEngine
+Time to run engine: 00:00:11.1977056
+PSMs within 1% FDR: 4920
+Delta Score Used for FDR Analysis: False
+
+************************************************************
+*       Metrics for Determination of PEP Using Binary Classification      
+*-----------------------------------------------------------
+*       Accuracy:  0.9929683050824292
+*       Area Under Curve:  0.9991475971904218
+*       Area under Precision recall Curve:  0.9995540942376517
+*       F1Score:  0.9944350356786317
+*       LogLoss:  Infinity
+*       LogLossReduction:  -Infinity
+*       PositivePrecision:  0.9953514047830957
+*       PositiveRecall:  0.9935284653884451
+*       NegativePrecision:  0.9888634740066222
+*       NegativeRecall:  0.9920493943394203
+*       Count of Ambiguous Peptides Removed:  11
+************************************************************
+
+
+
+Engine type: DataPointAcquisitionEngine
+Time to run engine: 00:00:00.2102025
+MS1 calibration datapoint count: 20990
+MS1 ppm error median: 7.937
+MS1 ppm error interquartile range: 1.723
+MS2 calibration datapoint count: 42777
+MS2 ppm error median: 5.232
+MS2 ppm error interquartile range: 1.24
+
+
+Engine type: CalibrationEngine
+Time to run engine: 00:00:00.2910746
+
+Engine type: ClassicSearchEngine
+Time to run engine: 00:00:21.7059579
+
+Engine type: FdrAnalysisEngine
+Time to run engine: 00:00:11.7332689
+PSMs within 1% FDR: 4809
+Delta Score Used for FDR Analysis: False
+
+************************************************************
+*       Metrics for Determination of PEP Using Binary Classification      
+*-----------------------------------------------------------
+*       Accuracy:  0.9923366858170608
+*       Area Under Curve:  0.9994390967587647
+*       Area under Precision recall Curve:  0.9995308945896018
+*       F1Score:  0.9936465596379968
+*       LogLoss:  Infinity
+*       LogLossReduction:  -Infinity
+*       PositivePrecision:  0.9940632843973609
+*       PositiveRecall:  0.9932731182148876
+*       NegativePrecision:  0.9900168862700174
+*       NegativeRecall:  0.9907357946407258
+*       Count of Ambiguous Peptides Removed:  11
+************************************************************
+
+
+
+Engine type: DataPointAcquisitionEngine
+Time to run engine: 00:00:00.1891018
+MS1 calibration datapoint count: 21226
+MS1 ppm error median: 0.362
+MS1 ppm error interquartile range: 1.608
+MS2 calibration datapoint count: 42140
+MS2 ppm error median: 0.039
+MS2 ppm error interquartile range: 1.207
+
+
+Engine type: CalibrationEngine
+Time to run engine: 00:00:00.2886664
+
+Engine type: ClassicSearchEngine
+Time to run engine: 00:00:21.0147048
+
+Engine type: FdrAnalysisEngine
+Time to run engine: 00:00:09.4205569
+PSMs within 1% FDR: 2792
+Delta Score Used for FDR Analysis: False
+
+************************************************************
+*       Metrics for Determination of PEP Using Binary Classification      
+*-----------------------------------------------------------
+*       Accuracy:  0.99586797552267
+*       Area Under Curve:  0.9996069630474669
+*       Area under Precision recall Curve:  0.9997353803410236
+*       F1Score:  0.9962927795198214
+*       LogLoss:  0.034486803794050135
+*       LogLossReduction:  0.9651956294959838
+*       PositivePrecision:  0.9968553935559122
+*       PositiveRecall:  0.9957351076638371
+*       NegativePrecision:  0.994557450043011
+*       NegativeRecall:  0.9961062639711613
+*       Count of Ambiguous Peptides Removed:  15
+************************************************************
+
+
+
+Engine type: DataPointAcquisitionEngine
+Time to run engine: 00:00:00.1277892
+MS1 calibration datapoint count: 18331
+MS1 ppm error median: 8.076
+MS1 ppm error interquartile range: 2.687
+MS2 calibration datapoint count: 23042
+MS2 ppm error median: 5.136
+MS2 ppm error interquartile range: 1.272
+
+
+Engine type: CalibrationEngine
+Time to run engine: 00:00:00.5213691
+
+Engine type: ClassicSearchEngine
+Time to run engine: 00:00:21.0281185
+
+Engine type: FdrAnalysisEngine
+Time to run engine: 00:00:09.8297709
+PSMs within 1% FDR: 2923
+Delta Score Used for FDR Analysis: False
+
+************************************************************
+*       Metrics for Determination of PEP Using Binary Classification      
+*-----------------------------------------------------------
+*       Accuracy:  0.9972732354518605
+*       Area Under Curve:  0.9999137376111789
+*       Area under Precision recall Curve:  0.999930364872858
+*       F1Score:  0.9975453638619813
+*       LogLoss:  0.07016677163789
+*       LogLossReduction:  0.9289618295379943
+*       PositivePrecision:  0.9982082904055082
+*       PositiveRecall:  0.9968851616869807
+*       NegativePrecision:  0.9960863437747024
+*       NegativeRecall:  0.9977828005225498
+*       Count of Ambiguous Peptides Removed:  8
+************************************************************
+
+
+
+Engine type: DataPointAcquisitionEngine
+Time to run engine: 00:00:00.1386227
+MS1 calibration datapoint count: 19724
+MS1 ppm error median: 0.874
+MS1 ppm error interquartile range: 2.796
+MS2 calibration datapoint count: 23966
+MS2 ppm error median: 0.07
+MS2 ppm error interquartile range: 1.296
+
+
+Engine type: CalibrationEngine
+Time to run engine: 00:00:00.4618622
+
+Engine type: ClassicSearchEngine
+Time to run engine: 00:00:22.6055184
+
+Engine type: FdrAnalysisEngine
+Time to run engine: 00:00:11.6114873
+PSMs within 1% FDR: 4274
+Delta Score Used for FDR Analysis: False
+
+************************************************************
+*       Metrics for Determination of PEP Using Binary Classification      
+*-----------------------------------------------------------
+*       Accuracy:  0.9943639400530794
+*       Area Under Curve:  0.9994741797585587
+*       Area under Precision recall Curve:  0.9994956663095231
+*       F1Score:  0.9953022410536577
+*       LogLoss:  0.035982183046863035
+*       LogLossReduction:  0.9627259384521082
+*       PositivePrecision:  0.9962542090555349
+*       PositiveRecall:  0.9943563254785688
+*       NegativePrecision:  0.991527623278546
+*       NegativeRecall:  0.994395350603028
+*       Count of Ambiguous Peptides Removed:  5
+************************************************************
+
+
+
+Engine type: DataPointAcquisitionEngine
+Time to run engine: 00:00:00.2055414
+MS1 calibration datapoint count: 19419
+MS1 ppm error median: 8.298
+MS1 ppm error interquartile range: 2.209
+MS2 calibration datapoint count: 39688
+MS2 ppm error median: 5.47
+MS2 ppm error interquartile range: 1.237
+
+
+Engine type: CalibrationEngine
+Time to run engine: 00:00:00.3219199
+
+Engine type: ClassicSearchEngine
+Time to run engine: 00:00:21.3548266
+
+Engine type: FdrAnalysisEngine
+Time to run engine: 00:00:12.1915797
+PSMs within 1% FDR: 4217
+Delta Score Used for FDR Analysis: False
+
+************************************************************
+*       Metrics for Determination of PEP Using Binary Classification      
+*-----------------------------------------------------------
+*       Accuracy:  0.9938094751920856
+*       Area Under Curve:  0.9992654523452892
+*       Area under Precision recall Curve:  0.9994000600727072
+*       F1Score:  0.9948010780247513
+*       LogLoss:  0.11500510325247466
+*       LogLossReduction:  0.8810763293061282
+*       PositivePrecision:  0.9947238251202116
+*       PositiveRecall:  0.9948822848889319
+*       NegativePrecision:  0.9924603549746679
+*       NegativeRecall:  0.9922269705410495
+*       Count of Ambiguous Peptides Removed:  19
+************************************************************
+
+
+
+Engine type: DataPointAcquisitionEngine
+Time to run engine: 00:00:00.1913576
+MS1 calibration datapoint count: 20532
+MS1 ppm error median: 0.845
+MS1 ppm error interquartile range: 2.571
+MS2 calibration datapoint count: 39517
+MS2 ppm error median: 0.042
+MS2 ppm error interquartile range: 1.271
+
+
+Engine type: CalibrationEngine
+Time to run engine: 00:00:00.3533283
+
+
+
+
+
+
+Time to run task: 00:04:49.4224630
+
+
+--------------------------------------------------
+
+
+All target PSMS within 1% FDR: 19900
+All target peptides within 1% FDR: 7037
+All target protein groups within 1% FDR: 971
+
+MS2 spectra in D19_15um30cm_SC3-calib: 25782
+Precursors fragmented in D19_15um30cm_SC3-calib: 49281
+Target PSMs within 1% FDR in D19_15um30cm_SC3-calib: 5404
+MS2 spectra in D19_15um30cm_SC5-calib: 26194
+Precursors fragmented in D19_15um30cm_SC5-calib: 59048
+Target PSMs within 1% FDR in D19_15um30cm_SC5-calib: 4738
+MS2 spectra in D19_15um30cm_SC4-calib: 20993
+Precursors fragmented in D19_15um30cm_SC4-calib: 44823
+Target PSMs within 1% FDR in D19_15um30cm_SC4-calib: 3398
+MS2 spectra in D19_15um30cm_SC2-calib: 22268
+Precursors fragmented in D19_15um30cm_SC2-calib: 47513
+Target PSMs within 1% FDR in D19_15um30cm_SC2-calib: 3148
+MS2 spectra in D19_15um30cm_SC1-calib: 20045
+Precursors fragmented in D19_15um30cm_SC1-calib: 40876
+Target PSMs within 1% FDR in D19_15um30cm_SC1-calib: 3212
+Target protein groups within 1 % FDR in D19_15um30cm_SC3-calib: 857
+Target protein groups within 1 % FDR in D19_15um30cm_SC5-calib: 778
+Target protein groups within 1 % FDR in D19_15um30cm_SC4-calib: 581
+Target protein groups within 1 % FDR in D19_15um30cm_SC2-calib: 562
+Target protein groups within 1 % FDR in D19_15um30cm_SC1-calib: 584
+Target peptides within 1% FDR in D19_15um30cm_SC3-calib: 5090
+
+Target peptides within 1% FDR in D19_15um30cm_SC5-calib: 4641
+
+Target peptides within 1% FDR in D19_15um30cm_SC4-calib: 3365
+
+Target peptides within 1% FDR in D19_15um30cm_SC2-calib: 3222
+
+Target peptides within 1% FDR in D19_15um30cm_SC1-calib: 3339
+
+
+
+
+--------------------------------------------------
+
+
+Engine Results:
+
+Engine type: ClassicSearchEngine
+Time to run engine: 00:00:21.3525307
+
+Engine type: ClassicSearchEngine
+Time to run engine: 00:00:21.0283625
+
+Engine type: ClassicSearchEngine
+Time to run engine: 00:00:21.4905163
+
+Engine type: ClassicSearchEngine
+Time to run engine: 00:00:23.1848618
+
+Engine type: ClassicSearchEngine
+Time to run engine: 00:00:23.7451218
+
+Engine type: FdrAnalysisEngine
+Time to run engine: 00:00:14.8373959
+PSMs within 1% FDR: 19900
+Delta Score Used for FDR Analysis: False
+
+************************************************************
+*       Metrics for Determination of PEP Using Binary Classification      
+*-----------------------------------------------------------
+*       Accuracy:  0.9963353047140919
+*       Area Under Curve:  0.9997334589396096
+*       Area under Precision recall Curve:  0.9998356031780861
+*       F1Score:  0.997422094219123
+*       LogLoss:  0.028307779837461387
+*       LogLossReduction:  0.967391558731629
+*       PositivePrecision:  0.9967658878578547
+*       PositiveRecall:  0.9980799174412791
+*       NegativePrecision:  0.9952722027991425
+*       NegativeRecall:  0.9920649067054601
+*       Count of Ambiguous Peptides Removed:  43
+************************************************************
+
+
+
+Engine type: ModificationAnalysisEngine
+Time to run engine: 00:00:00.0591960
+Localized mods seen below q-value 0.01:
+	Carbamidomethyl on C	658
+	Oxidation on M	156
+(Approx) Additional localized but protein ambiguous mods seen below q-value 0.01:
+	Carbamidomethyl on C	122
+	Oxidation on M	54
+(Approx) Additional unlocalized mods seen below q-value 0.01:
+	Oxidation on M	1
+(Approx) Additional unlocalized modification formulas seen below q-value 0.01:
+
+
+All mods in database limited to peptides observed in the results:
+
+
+
+Engine type: ProteinParsimonyEngine
+Time to run engine: 00:00:00.6753660
+
+
+Engine type: ProteinScoringAndFdrEngine
+Time to run engine: 00:00:00.2009066
+Number of proteins within 1% FDR: 980
+
+Engine type: ProteinScoringAndFdrEngine
+Time to run engine: 00:00:00.0550034
+Number of proteins within 1% FDR: 865
+
+Engine type: ProteinScoringAndFdrEngine
+Time to run engine: 00:00:00.0478451
+Number of proteins within 1% FDR: 785
+
+Engine type: ProteinScoringAndFdrEngine
+Time to run engine: 00:00:00.0306580
+Number of proteins within 1% FDR: 586
+
+Engine type: ProteinScoringAndFdrEngine
+Time to run engine: 00:00:00.0297026
+Number of proteins within 1% FDR: 567
+
+Engine type: ProteinScoringAndFdrEngine
+Time to run engine: 00:00:00.0302012
+Number of proteins within 1% FDR: 589
+
+Engine type: FdrAnalysisEngine
+Time to run engine: 00:00:00.0087007
+Peptides within 1% FDR: 5353
+Delta Score Used for FDR Analysis: False
+
+
+
+Engine type: FdrAnalysisEngine
+Time to run engine: 00:00:00.0041653
+Peptides within 1% FDR: 5090
+Delta Score Used for FDR Analysis: False
+
+
+
+Engine type: FdrAnalysisEngine
+Time to run engine: 00:00:00.0052577
+Peptides within 1% FDR: 4641
+Delta Score Used for FDR Analysis: False
+
+
+
+Engine type: FdrAnalysisEngine
+Time to run engine: 00:00:00.0012883
+Peptides within 1% FDR: 3365
+Delta Score Used for FDR Analysis: False
+
+
+
+Engine type: FdrAnalysisEngine
+Time to run engine: 00:00:00.0012548
+Peptides within 1% FDR: 3222
+Delta Score Used for FDR Analysis: False
+
+
+
+Engine type: FdrAnalysisEngine
+Time to run engine: 00:00:00.0046451
+Peptides within 1% FDR: 3339
+Delta Score Used for FDR Analysis: False
+
+
+
+

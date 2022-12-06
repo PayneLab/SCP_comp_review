@@ -1,0 +1,195 @@
+MetaMorpheus: version 0.0.0
+Time to run task: 00:04:41.3202702
+
+
+--------------------------------------------------
+
+
+All target PSMS within 1% FDR: 35708
+All target peptides within 1% FDR: 9601
+All target protein groups within 1% FDR: 1232
+
+MS2 spectra in Ex_Auto_W17_30umTA_02ngQC_60m_3-calib: 19091
+Precursors fragmented in Ex_Auto_W17_30umTA_02ngQC_60m_3-calib: 31751
+Target PSMs within 1% FDR in Ex_Auto_W17_30umTA_02ngQC_60m_3-calib: 5499
+MS2 spectra in Ex_Auto_J3_30umTB_02ngQC_60m_2-calib: 14946
+Precursors fragmented in Ex_Auto_J3_30umTB_02ngQC_60m_2-calib: 26704
+Target PSMs within 1% FDR in Ex_Auto_J3_30umTB_02ngQC_60m_2-calib: 7361
+MS2 spectra in Ex_Auto_J3_30umTB_02ngQC_60m_1-calib: 14859
+Precursors fragmented in Ex_Auto_J3_30umTB_02ngQC_60m_1-calib: 26357
+Target PSMs within 1% FDR in Ex_Auto_J3_30umTB_02ngQC_60m_1-calib: 7353
+MS2 spectra in Ex_Auto_K13_30umTA_02ngQC_60m_1-calib: 16237
+Precursors fragmented in Ex_Auto_K13_30umTA_02ngQC_60m_1-calib: 27523
+Target PSMs within 1% FDR in Ex_Auto_K13_30umTA_02ngQC_60m_1-calib: 5416
+MS2 spectra in Ex_Auto_W17_30umTA_02ngQC_60m_4-calib: 19791
+Precursors fragmented in Ex_Auto_W17_30umTA_02ngQC_60m_4-calib: 31986
+Target PSMs within 1% FDR in Ex_Auto_W17_30umTA_02ngQC_60m_4-calib: 4927
+MS2 spectra in Ex_Auto_K13_30umTA_02ngQC_60m_2-calib: 15157
+Precursors fragmented in Ex_Auto_K13_30umTA_02ngQC_60m_2-calib: 26819
+Target PSMs within 1% FDR in Ex_Auto_K13_30umTA_02ngQC_60m_2-calib: 5152
+Target protein groups within 1 % FDR in Ex_Auto_W17_30umTA_02ngQC_60m_3-calib: 949
+Target protein groups within 1 % FDR in Ex_Auto_J3_30umTB_02ngQC_60m_2-calib: 1104
+Target protein groups within 1 % FDR in Ex_Auto_J3_30umTB_02ngQC_60m_1-calib: 1110
+Target protein groups within 1 % FDR in Ex_Auto_K13_30umTA_02ngQC_60m_1-calib: 958
+Target protein groups within 1 % FDR in Ex_Auto_W17_30umTA_02ngQC_60m_4-calib: 893
+Target protein groups within 1 % FDR in Ex_Auto_K13_30umTA_02ngQC_60m_2-calib: 947
+Target peptides within 1% FDR in Ex_Auto_W17_30umTA_02ngQC_60m_3-calib: 5032
+
+Target peptides within 1% FDR in Ex_Auto_J3_30umTB_02ngQC_60m_2-calib: 6833
+
+Target peptides within 1% FDR in Ex_Auto_J3_30umTB_02ngQC_60m_1-calib: 6824
+
+Target peptides within 1% FDR in Ex_Auto_K13_30umTA_02ngQC_60m_1-calib: 4599
+
+Target peptides within 1% FDR in Ex_Auto_W17_30umTA_02ngQC_60m_4-calib: 4571
+
+Target peptides within 1% FDR in Ex_Auto_K13_30umTA_02ngQC_60m_2-calib: 4477
+
+
+
+
+--------------------------------------------------
+
+
+Engine Results:
+
+Engine type: ClassicSearchEngine
+Time to run engine: 00:00:20.9124429
+
+Engine type: ClassicSearchEngine
+Time to run engine: 00:00:20.0893644
+
+Engine type: ClassicSearchEngine
+Time to run engine: 00:00:20.3167494
+
+Engine type: ClassicSearchEngine
+Time to run engine: 00:00:20.0729346
+
+Engine type: ClassicSearchEngine
+Time to run engine: 00:00:20.0895529
+
+Engine type: ClassicSearchEngine
+Time to run engine: 00:00:19.4290120
+
+Engine type: FdrAnalysisEngine
+Time to run engine: 00:00:18.7411727
+PSMs within 1% FDR: 35708
+Delta Score Used for FDR Analysis: False
+
+************************************************************
+*       Metrics for Determination of PEP Using Binary Classification      
+*-----------------------------------------------------------
+*       Accuracy:  0.9953106998213023
+*       Area Under Curve:  0.9983484280428494
+*       Area under Precision recall Curve:  0.9990365596070725
+*       F1Score:  0.9970679654849519
+*       LogLoss:  0.04659287702545843
+*       LogLossReduction:  0.9363329215427492
+*       PositivePrecision:  0.9971396068064051
+*       PositiveRecall:  0.9969963536226953
+*       NegativePrecision:  0.9880062060334542
+*       NegativeRecall:  0.9885700321334024
+*       Count of Ambiguous Peptides Removed:  130
+************************************************************
+
+
+
+Engine type: ModificationAnalysisEngine
+Time to run engine: 00:00:00.0549787
+Localized mods seen below q-value 0.01:
+	Carbamidomethyl on C	1031
+	Oxidation on M	271
+(Approx) Additional localized but protein ambiguous mods seen below q-value 0.01:
+	Carbamidomethyl on C	148
+	Oxidation on M	80
+(Approx) Additional unlocalized mods seen below q-value 0.01:
+	Oxidation on M	5
+	Carbamidomethyl on C	2
+(Approx) Additional unlocalized modification formulas seen below q-value 0.01:
+
+
+All mods in database limited to peptides observed in the results:
+
+
+
+Engine type: ProteinParsimonyEngine
+Time to run engine: 00:00:00.9696329
+
+
+Engine type: ProteinScoringAndFdrEngine
+Time to run engine: 00:00:00.2530154
+Number of proteins within 1% FDR: 1244
+
+Engine type: ProteinScoringAndFdrEngine
+Time to run engine: 00:00:00.0469505
+Number of proteins within 1% FDR: 958
+
+Engine type: ProteinScoringAndFdrEngine
+Time to run engine: 00:00:00.0635694
+Number of proteins within 1% FDR: 1115
+
+Engine type: ProteinScoringAndFdrEngine
+Time to run engine: 00:00:00.0618982
+Number of proteins within 1% FDR: 1121
+
+Engine type: ProteinScoringAndFdrEngine
+Time to run engine: 00:00:00.0439038
+Number of proteins within 1% FDR: 967
+
+Engine type: ProteinScoringAndFdrEngine
+Time to run engine: 00:00:00.0395643
+Number of proteins within 1% FDR: 901
+
+Engine type: ProteinScoringAndFdrEngine
+Time to run engine: 00:00:00.0460554
+Number of proteins within 1% FDR: 956
+
+Engine type: FdrAnalysisEngine
+Time to run engine: 00:00:00.0076561
+Peptides within 1% FDR: 7556
+Delta Score Used for FDR Analysis: False
+
+
+
+Engine type: FdrAnalysisEngine
+Time to run engine: 00:00:00.0020549
+Peptides within 1% FDR: 5032
+Delta Score Used for FDR Analysis: False
+
+
+
+Engine type: FdrAnalysisEngine
+Time to run engine: 00:00:00.0114950
+Peptides within 1% FDR: 6833
+Delta Score Used for FDR Analysis: False
+
+
+
+Engine type: FdrAnalysisEngine
+Time to run engine: 00:00:00.0030495
+Peptides within 1% FDR: 6824
+Delta Score Used for FDR Analysis: False
+
+
+
+Engine type: FdrAnalysisEngine
+Time to run engine: 00:00:00.0020333
+Peptides within 1% FDR: 4599
+Delta Score Used for FDR Analysis: False
+
+
+
+Engine type: FdrAnalysisEngine
+Time to run engine: 00:00:00.0030137
+Peptides within 1% FDR: 4571
+Delta Score Used for FDR Analysis: False
+
+
+
+Engine type: FdrAnalysisEngine
+Time to run engine: 00:00:00.0019077
+Peptides within 1% FDR: 4477
+Delta Score Used for FDR Analysis: False
+
+
+

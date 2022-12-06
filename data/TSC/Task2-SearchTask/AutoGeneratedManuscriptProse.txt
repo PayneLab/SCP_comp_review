@@ -1,0 +1,14 @@
+The data analysis was performed using MetaMorpheus version 0.0.0, available at https://github.com/smith-chem-wisc/MetaMorpheus.
+The following search settings were used: protease = trypsin; search for truncated proteins and proteolysis products = False; maximum missed cleavages = 2; minimum peptide length = 8; maximum peptide length = 30; initiator methionine behavior = Variable; fixed modifications = Carbamidomethyl on C, Carbamidomethyl on U; variable modifications = Oxidation on M; max mods per peptide = 2; max modification isoforms = 1024; precursor mass tolerance = ±5.0000 PPM; product mass tolerance = ±20.0000 PPM; report PSM ambiguity = True. The combined search database contained 20375 non-decoy protein entries including 0 contaminant sequences. Data files were processed on a computer running Microsoft Windows 10.0.22000 with a 64-bit AMD Ryzen Threadripper 2970WX 24-Core Processor processor with 48 threads and 64GB installed RAM. 
+The total time to perform the Search task on 5 spectra file(s) was 4.82 minutes.
+
+Published works using MetaMorpheus software are encouraged to cite: Solntsev, S. K.; Shortreed, M. R.; Frey, B. L.; Smith, L. M. Enhanced Global Post-translational Modification Discovery with MetaMorpheus. Journal of Proteome Research. 2018, 17 (5), 1844-1851.
+
+Spectra files: 
+	D:\Users\PCL_user\Jupyter_Notebooks\single_cell_review\data\Task1-CalibrateTask\D19_15um30cm_SC1-calib.mzML
+	D:\Users\PCL_user\Jupyter_Notebooks\single_cell_review\data\Task1-CalibrateTask\D19_15um30cm_SC2-calib.mzML
+	D:\Users\PCL_user\Jupyter_Notebooks\single_cell_review\data\Task1-CalibrateTask\D19_15um30cm_SC3-calib.mzML
+	D:\Users\PCL_user\Jupyter_Notebooks\single_cell_review\data\Task1-CalibrateTask\D19_15um30cm_SC4-calib.mzML
+	D:\Users\PCL_user\Jupyter_Notebooks\single_cell_review\data\Task1-CalibrateTask\D19_15um30cm_SC5-calib.mzML
+Databases:
+	D:\Users\PCL_user\Mass_Spec\data\uniprot_fasta_file\uniprot-filtered-organism__Homo+sapiens+(Human)+[9606]_+AND+review--.fasta Downloaded on: 01/18/2022 09:48:05
