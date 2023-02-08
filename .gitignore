@@ -1,4 +1,7 @@
 .DS_Store
+.Rhistory
+.RData
+.ipynb_checkpoints/*
 data/MSV000087524/*
 data/MSV000087689/*
 data/datasets/*
