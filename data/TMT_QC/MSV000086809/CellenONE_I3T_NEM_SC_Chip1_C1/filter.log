@@ -1,0 +1,27 @@
+[36mINFO[0m[10:05:59] Executing Filter  v4.4.0                     
+[36mINFO[0m[10:05:59] Fetching razor assignment from: D:\Users\PCL_user\Mass_Spec\data\TMT_sc_data\Datasets\MSV000086809\sets\output\CellenONE_I3T_NEM_SC_Chip1_B1\.meta\razor.bin: 14443 razor groups imported. 
+[36mINFO[0m[10:05:59] Processing peptide identification files      
+[36mINFO[0m[10:05:59] Parsing D:\Users\PCL_user\Mass_Spec\data\TMT_sc_data\Datasets\MSV000086809\sets\output\CellenONE_I3T_NEM_SC_Chip1_C1\interact-CellenONE_I3T_NEM_SC_Chip1_C1.pep.xml 
+[36mINFO[0m[10:06:00] 1+ Charge profile                             [36mdecoy[0m=0 [36mtarget[0m=0
+[36mINFO[0m[10:06:00] 2+ Charge profile                             [36mdecoy[0m=91 [36mtarget[0m=2461
+[36mINFO[0m[10:06:00] 3+ Charge profile                             [36mdecoy[0m=102 [36mtarget[0m=5028
+[36mINFO[0m[10:06:00] 4+ Charge profile                             [36mdecoy[0m=7 [36mtarget[0m=395
+[36mINFO[0m[10:06:00] 5+ Charge profile                             [36mdecoy[0m=0 [36mtarget[0m=11
+[36mINFO[0m[10:06:00] 6+ Charge profile                             [36mdecoy[0m=0 [36mtarget[0m=2
+[36mINFO[0m[10:06:00] Database search results                       [36mions[0m=7665 [36mpeptides[0m=7345 [36mpsms[0m=8097
+[36mINFO[0m[10:06:00] Converged to 0.99 % FDR with 7616 PSMs        [36mdecoy[0m=76 [36mthreshold[0m=0.738345 [36mtotal[0m=7692
+[36mINFO[0m[10:06:00] Converged to 1.00 % FDR with 6881 Peptides    [36mdecoy[0m=69 [36mthreshold[0m=0.762053 [36mtotal[0m=6950
+[36mINFO[0m[10:06:00] Converged to 0.99 % FDR with 7204 Ions        [36mdecoy[0m=72 [36mthreshold[0m=0.745396 [36mtotal[0m=7276
+[36mINFO[0m[10:06:01] Protein inference results                     [36mdecoy[0m=1080 [36mtarget[0m=4105
+[36mINFO[0m[10:06:01] Converged to 1.03 % FDR with 2439 Proteins    [36mdecoy[0m=25 [36mthreshold[0m=0.9803 [36mtotal[0m=2464
+[36mINFO[0m[10:06:02] Applying sequential FDR estimation            [36mions[0m=7110 [36mpeptides[0m=6802 [36mpsms[0m=7515
+[36mINFO[0m[10:06:02] Converged to 0.21 % FDR with 7499 PSMs        [36mdecoy[0m=16 [36mthreshold[0m=0.738345 [36mtotal[0m=7515
+[36mINFO[0m[10:06:02] Converged to 0.23 % FDR with 6786 Peptides    [36mdecoy[0m=16 [36mthreshold[0m=0.738345 [36mtotal[0m=6802
+[36mINFO[0m[10:06:02] Converged to 0.22 % FDR with 7094 Ions        [36mdecoy[0m=16 [36mthreshold[0m=0.738345 [36mtotal[0m=7110
+[36mINFO[0m[10:06:03] Post processing identifications              
+[36mINFO[0m[10:06:03] Assigning protein identifications to layers  
+[36mINFO[0m[10:06:04] Processing protein inference                 
+[36mINFO[0m[10:06:10] Synchronizing PSMs and proteins              
+[36mINFO[0m[10:06:10] Total report numbers after FDR filtering, and post-processing  [36mions[0m=7093 [36mpeptides[0m=6785 [36mproteins[0m=1684 [36mpsms[0m=7498
+[36mINFO[0m[10:06:10] Saving                                       
+[36mINFO[0m[10:06:11] Done                                         
