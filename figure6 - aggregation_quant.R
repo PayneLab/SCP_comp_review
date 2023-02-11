@@ -1,5 +1,6 @@
 library(tidyverse)
 library(scp)
+## Code adapted from Laurent Gato
 
 ## Read the data table
 x <- read.delim("data/02ng/Task2-SearchTask/AllQuantifiedPeptides.tsv") |>
