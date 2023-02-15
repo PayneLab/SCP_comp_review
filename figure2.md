@@ -1,5 +1,5 @@
 The chromatorgrams were created using skyline.
-We followed the skyline tutorial "DDA Search for MS1 Filtering" for all 5 reps of the true single-cell as described in the massive repo (MSV000087524)
+We followed the skyline tutorial "DDA Search for MS1 Filtering" for all 5 reps of the true single-cell as described in the massive repo (MSV000087524). The defaults settings were used in each step.
 
 
 Spectra used in figure 2:
